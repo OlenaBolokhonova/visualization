@@ -13,25 +13,25 @@
 ### A "Bad" Example of Visualization
 
 #### Link: https://vizualize.tumblr.com/post/120177748652/via-the-human-toll-of-fifas-corruption-the
-Name: An unprecedented death toll in Qatar
-Source: Washington Post
+#### Name: An unprecedented death toll in Qatar
+#### Source: Washington Post
 
-Description
+#### Description
 The data visualization presents a comparison of worker deaths associated with major sporting events in various countries, highlighting the number of migrant worker deaths in Qatar since December 2010.
 
-Pros
+#### Pros
 Focus on a Serious Issue: The visualization aims to present a serious issue by bringing attention to the significant number of worker deaths in Qatar compared to other locations.
 Simple and Consistent Icons: It uses simple and consistent icons to represent deaths, making it easy to understand at a glance.
-Cons
-Time Frame: While it states that the data for Qatar covers migrant worker deaths "since December 2010," it does not specify an end date. This omission leaves the viewer uncertain about the period over which these deaths were counted, making it difficult to interpret the data accurately or compare it with other events. As Edward Tufte emphasizes in "The Visual Display of Quantitative Information," clarity and detailed context are essential for accurate data interpretation.
+#### Cons
+1. Time Frame: While it states that the data for Qatar covers migrant worker deaths "since December 2010," it does not specify an end date. This omission leaves the viewer uncertain about the period over which these deaths were counted, making it difficult to interpret the data accurately or compare it with other events. As Edward Tufte emphasizes in "The Visual Display of Quantitative Information," clarity and detailed context are essential for accurate data interpretation.
 
-Sector and Scope: The visualization lacks clarity regarding the sectors or types of work included in the death counts for each country. For example, it does not specify whether the reported deaths were related to the construction of sports facilities, infrastructure, or other associated projects.
+2. Sector and Scope: The visualization lacks clarity regarding the sectors or types of work included in the death counts for each country. For example, it does not specify whether the reported deaths were related to the construction of sports facilities, infrastructure, or other associated projects.
 
 From the examples of other countries, it appears that the data focuses on worker deaths occurring in connection with major sporting events, such as the Olympics or World Cup. However, the section on Qatar does not provide similar specificity. It is unclear whether the deaths are linked to preparations for a specific event, or if they encompass a broader range of projects and sectors. Moreover, there is no indication of the specific period during which these deaths were recorded, making it difficult to understand the scope and context of the data presented.
 
-Comparative Basis: Without information on the number of workers involved, the scale of the construction projects, or the working conditions, the visualization lacks the necessary context to make a fair comparison between the countries. The viewer is left without critical details that could influence the interpretation of the data, such as worker safety regulations, enforcement of labor laws, or environmental conditions that might impact worker safety. According to Cole Nussbaumer Knaflic in "Storytelling with Data," effective data visualization requires providing sufficient context to guide the viewer's understanding and convey a clear message.
+3. Comparative Basis: Without information on the number of workers involved, the scale of the construction projects, or the working conditions, the visualization lacks the necessary context to make a fair comparison between the countries. The viewer is left without critical details that could influence the interpretation of the data, such as worker safety regulations, enforcement of labor laws, or environmental conditions that might impact worker safety. According to Cole Nussbaumer Knaflic in "Storytelling with Data," effective data visualization requires providing sufficient context to guide the viewer's understanding and convey a clear message.
 
-Conclusion
+#### Conclusion
 The use of uniform icons to represent deaths is impactful but can be misleading. The large number of icons for Qatar creates a strong visual emphasis, but without numerical labels or a clear legend, it is challenging to ascertain the exact number of deaths or understand the scale relative to the other data points. This lack of context and clarity diminishes the effectiveness of the visualization in accurately conveying the seriousness of the issue across different countries.
 
 
