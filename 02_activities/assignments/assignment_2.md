@@ -10,6 +10,29 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
+### A "Good" Example of Visualization
+
+#### Link: https://www.behance.net/gallery/17868143/Power-grid
+#### Source: Environment Bureau, Census and Statistics Department, Electrical and Mechanical Services Department, EEE Power and Energy Magazine
+
+#### Description
+The visualization provides a detailed breakdown of the electricity grid in Hong Kong, illustrating the sources of electricity, the distribution among different sectors, and major electricity users. It uses a Sankey diagram format to depict the flow of electricity from generation and import to consumption and loss.
+
+#### Pros
+1. Comprehensive Overview: The visualization offers a thorough breakdown of electricity sources, including local generation and imports, and details the distribution across sectors such as commercial, domestic, industrial, and infrastructure. It also highlights major electricity consumers.
+
+2. Effective Use of Sankey Diagram: This format effectively visualizes the flow and allocation of electricity, allowing viewers to easily see the proportions and relationships between different segments.
+
+3. Clear Labeling and Color Coding: The use of distinct colors and clearly labeled sections helps distinguish between various sources and consumers of electricity, facilitating quick comprehension of the data.
+
+4. Contextual Information: The visualization provides additional context about the energy mix debate in Hong Kong, including statistics on average net tariffs and major users, which enhances the viewer's understanding.
+
+#### Cons
+Visual Complexity: The visualization is somewhat dense, with a lot of information presented in one image. This can make it challenging for viewers to grasp all the details quickly, especially if they are unfamiliar with Sankey diagrams.
+
+#### Conclusion
+This visualization is considered a "good" example due to its detailed and comprehensive representation of Hong Kong's electricity grid. It effectively uses a Sankey diagram to illustrate the flow and distribution of electricity, with clear labeling and contextual information. While some elements could be simplified and clarified, the visualization provides valuable insights into the electricity consumption patterns and infrastructure of Hong Kong.
+
 ### A "Bad" Example of Visualization
 
 #### Link: https://vizualize.tumblr.com/post/120177748652/via-the-human-toll-of-fifas-corruption-the
@@ -43,6 +66,10 @@ The use of uniform icons to represent deaths is impactful but can be misleading.
       ```
     - How could this data visualization have been improved?  
       ```
+
+### Suggested Improvements for "good" example
+The visualization contains a lot of information, which can overwhelm viewers. Simplifying the design by breaking down the data into multiple, smaller charts or focusing on key aspects in separate visualizations could make it easier to digest. For example, separate diagrams could highlight electricity sources, consumption sectors, and major consumers individually.
+
 ### Suggested Improvements for "bad" example 
 #### Clarify Time Frame: 
 The visualization should specify the exact time period over which the data for Qatar and other countries were collected. For Qatar, it should clearly indicate the end date for the data on migrant worker deaths, in addition to the start date of December 2010. This clarity would help viewers understand the duration over which these deaths occurred and allow for more accurate comparisons.
@@ -55,6 +82,8 @@ The visualization would benefit from adding numerical labels or a clear legend t
 
 #### Provide Comparative Context: 
 To offer a more balanced perspective, the visualization should include additional context, such as the total number of workers involved in each country, the scale and complexity of the projects, and any relevant working conditions or safety regulations. This context is crucial for understanding why there might be significant differences in worker deaths between countries. It could also address factors like labor practices, enforcement of safety standards, and environmental conditions that may impact worker safety.
+
+
 
 
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
