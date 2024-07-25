@@ -27,7 +27,7 @@ Simple and Consistent Icons: It uses simple and consistent icons to represent de
 
 2. Sector and Scope: The visualization lacks clarity regarding the sectors or types of work included in the death counts for each country. For example, it does not specify whether the reported deaths were related to the construction of sports facilities, infrastructure, or other associated projects.
 
-From the examples of other countries, it appears that the data focuses on worker deaths occurring in connection with major sporting events, such as the Olympics or World Cup. However, the section on Qatar does not provide similar specificity. It is unclear whether the deaths are linked to preparations for a specific event, or if they encompass a broader range of projects and sectors. Moreover, there is no indication of the specific period during which these deaths were recorded, making it difficult to understand the scope and context of the data presented.
+   From the examples of other countries, it appears that the data focuses on worker deaths occurring in connection with major sporting events, such as the Olympics or World Cup. However, the section on Qatar does not provide similar specificity. It is unclear whether the deaths are linked to preparations for a specific event, or if they encompass a broader range of projects and sectors. Moreover, there is no indication of the specific period during which these deaths were recorded, making it difficult to understand the scope and context of the data presented.
 
 3. Comparative Basis: Without information on the number of workers involved, the scale of the construction projects, or the working conditions, the visualization lacks the necessary context to make a fair comparison between the countries. The viewer is left without critical details that could influence the interpretation of the data, such as worker safety regulations, enforcement of labor laws, or environmental conditions that might impact worker safety. According to Cole Nussbaumer Knaflic in "Storytelling with Data," effective data visualization requires providing sufficient context to guide the viewer's understanding and convey a clear message.
 
@@ -43,21 +43,20 @@ The use of uniform icons to represent deaths is impactful but can be misleading.
       ```
     - How could this data visualization have been improved?  
       ```
-Clarify Time Frame: The visualization should specify the exact time period over which the data for Qatar and other countries were collected. For Qatar, it should clearly indicate the end date for the data on migrant worker deaths, in addition to the start date of December 2010. This clarity would help viewers understand the duration over which these deaths occurred and allow for more accurate comparisons.
+### Suggested Improvements for "bad" example 
+#### Clarify Time Frame: 
+The visualization should specify the exact time period over which the data for Qatar and other countries were collected. For Qatar, it should clearly indicate the end date for the data on migrant worker deaths, in addition to the start date of December 2010. This clarity would help viewers understand the duration over which these deaths occurred and allow for more accurate comparisons.
 
-Detail the Sector and Scope: The visualization should clearly state the sectors or types of work included in the death counts. For other countries, it seems to focus on worker deaths related to the construction and preparation for major sporting events. It should confirm whether this focus is consistent across all countries and provide specifics for Qatar. For Qatar, it should clarify whether the data pertains to the construction of sports facilities, infrastructure projects, or other types of work. Additionally, it should specify if these deaths are associated with a particular event, such as the FIFA World Cup 2022, or cover a broader range of projects and periods.
+#### Detail the Sector and Scope: 
+The visualization should clearly state the sectors or types of work included in the death counts. For other countries, it seems to focus on worker deaths related to the construction and preparation for major sporting events. It should confirm whether this focus is consistent across all countries and provide specifics for Qatar. For Qatar, it should clarify whether the data pertains to the construction of sports facilities, infrastructure projects, or other types of work. Additionally, it should specify if these deaths are associated with a particular event, such as the FIFA World Cup 2022, or cover a broader range of projects and periods.
 
-Use a Clear Scale and Labels: The visualization would benefit from adding numerical labels or a clear legend to indicate the exact number of worker deaths. This would prevent any confusion or misinterpretation caused by relying solely on icons to represent the data. A precise visual scale can help viewers grasp the magnitude of the differences between countries more accurately.
+#### Use a Clear Scale and Labels: 
+The visualization would benefit from adding numerical labels or a clear legend to indicate the exact number of worker deaths. This would prevent any confusion or misinterpretation caused by relying solely on icons to represent the data. A precise visual scale can help viewers grasp the magnitude of the differences between countries more accurately.
 
-Provide Comparative Context: To offer a more balanced perspective, the visualization should include additional context, such as the total number of workers involved in each country, the scale and complexity of the projects, and any relevant working conditions or safety regulations. This context is crucial for understanding why there might be significant differences in worker deaths between countries. It could also address factors like labor practices, enforcement of safety standards, and environmental conditions that may impact worker safety.
-
-
-
-
+#### Provide Comparative Context: 
+To offer a more balanced perspective, the visualization should include additional context, such as the total number of workers involved in each country, the scale and complexity of the projects, and any relevant working conditions or safety regulations. This context is crucial for understanding why there might be significant differences in worker deaths between countries. It could also address factors like labor practices, enforcement of safety standards, and environmental conditions that may impact worker safety.
 
 
-      
-      ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
