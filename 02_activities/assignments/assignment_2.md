@@ -10,9 +10,9 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      A "Bad" Example of Visualization
+### A "Bad" Example of Visualization
 
-Link: https://vizualize.tumblr.com/post/120177748652/via-the-human-toll-of-fifas-corruption-the
+#### Link: https://vizualize.tumblr.com/post/120177748652/via-the-human-toll-of-fifas-corruption-the
 Name: An unprecedented death toll in Qatar
 Source: Washington Post
 
