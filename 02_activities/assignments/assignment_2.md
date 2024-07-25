@@ -85,9 +85,10 @@ To offer a more balanced perspective, the visualization should include additiona
 
 
 
-
+  ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
+  ```
 
 ### Why am I doing this assignment?:
 
