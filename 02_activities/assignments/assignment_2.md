@@ -10,7 +10,53 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-      Your answer...
+      
+### A "Good" Example of Visualization
+
+#### Link: https://www.behance.net/gallery/17868143/Power-grid
+#### Source: Environment Bureau, Census and Statistics Department, Electrical and Mechanical Services Department, EEE Power and Energy Magazine
+
+#### Description
+The visualization provides a detailed breakdown of the electricity grid in Hong Kong, illustrating the sources of electricity, the distribution among different sectors, and major electricity users. It uses a Sankey diagram format to depict the flow of electricity from generation and import to consumption and loss.
+
+#### Pros
+1. Comprehensive Overview: The visualization offers a thorough breakdown of electricity sources, including local generation and imports, and details the distribution across sectors such as commercial, domestic, industrial, and infrastructure. It also highlights major electricity consumers.
+
+2. Effective Use of Sankey Diagram: This format effectively visualizes the flow and allocation of electricity, allowing viewers to easily see the proportions and relationships between different segments.
+
+3. Clear Labeling and Color Coding: The use of distinct colors and clearly labeled sections helps distinguish between various sources and consumers of electricity, facilitating quick comprehension of the data.
+
+4. Contextual Information: The visualization provides additional context about the energy mix debate in Hong Kong, including statistics on average net tariffs and major users, which enhances the viewer's understanding.
+
+#### Cons
+Visual Complexity: The visualization is somewhat dense, with a lot of information presented in one image. This can make it challenging for viewers to grasp all the details quickly, especially if they are unfamiliar with Sankey diagrams. As Alberto Cairo discusses in "The Functional Art," visualizations can either aid or hinder the understanding of complex information. He introduces the concept of cognitive load, emphasizing the importance of not overwhelming the viewer with too much information or poorly structured visuals. This complexity can lead to difficulties in accurately interpreting the data presented.
+
+#### Conclusion
+This visualization is considered a "good" example due to its detailed and comprehensive representation of Hong Kong's electricity grid. It effectively uses a Sankey diagram to illustrate the flow and distribution of electricity, with clear labeling and contextual information. While some elements could be simplified and clarified, the visualization provides valuable insights into the electricity consumption patterns and infrastructure of Hong Kong.
+
+### A "Bad" Example of Visualization
+
+#### Link: https://vizualize.tumblr.com/post/120177748652/via-the-human-toll-of-fifas-corruption-the
+#### Name: An unprecedented death toll in Qatar
+#### Source: Washington Post
+
+#### Description
+The data visualization presents a comparison of worker deaths associated with major sporting events in various countries, highlighting the number of migrant worker deaths in Qatar since December 2010.
+
+#### Pros
+Focus on a Serious Issue: The visualization aims to present a serious issue by bringing attention to the significant number of worker deaths in Qatar compared to other locations.
+Simple and Consistent Icons: It uses simple and consistent icons to represent deaths, making it easy to understand at a glance.
+#### Cons
+1. Time Frame: While it states that the data for Qatar covers migrant worker deaths "since December 2010," it does not specify an end date. This omission leaves the viewer uncertain about the period over which these deaths were counted, making it difficult to interpret the data accurately or compare it with other events. As Edward Tufte emphasizes in "The Visual Display of Quantitative Information," clarity and detailed context are essential for accurate data interpretation.
+
+2. Sector and Scope: The visualization lacks clarity regarding the sectors or types of work included in the death counts for each country. For example, it does not specify whether the reported deaths were related to the construction of sports facilities, infrastructure, or other associated projects.
+
+   From the examples of other countries, it appears that the data focuses on worker deaths occurring in connection with major sporting events, such as the Olympics or World Cup. However, the section on Qatar does not provide similar specificity. It is unclear whether the deaths are linked to preparations for a specific event, or if they encompass a broader range of projects and sectors. Moreover, there is no indication of the specific period during which these deaths were recorded, making it difficult to understand the scope and context of the data presented.
+
+3. Comparative Basis: Without information on the number of workers involved, the scale of the construction projects, or the working conditions, the visualization lacks the necessary context to make a fair comparison between the countries. The viewer is left without critical details that could influence the interpretation of the data, such as worker safety regulations, enforcement of labor laws, or environmental conditions that might impact worker safety. According to Cole Nussbaumer Knaflic in "Storytelling with Data," effective data visualization requires providing sufficient context to guide the viewer's understanding and convey a clear message.
+
+#### Conclusion
+The use of uniform icons to represent deaths is impactful but can be misleading. The large number of icons for Qatar creates a strong visual emphasis, but without numerical labels or a clear legend, it is challenging to ascertain the exact number of deaths or understand the scale relative to the other data points. This lack of context and clarity diminishes the effectiveness of the visualization in accurately conveying the seriousness of the issue across different countries.
 
 
 
@@ -21,17 +67,32 @@
       ```
     - How could this data visualization have been improved?  
       ```
-      Your answer...
+
+### Suggested Improvements for "good" example
+#### Visual Complexity:
+The visualization contains a lot of information, which can overwhelm viewers. Simplifying the design by breaking down the data into multiple, smaller charts or focusing on key aspects in separate visualizations could make it easier to digest. For example, separate diagrams could highlight electricity sources, consumption sectors, and major consumers individually.
+#### User Interaction and Accessibility: 
+The visualization is static, lacking interactive elements that could enhance user engagement and accessibility. For instance, adding interactive features like hover-over tooltips with additional information or clickable elements to expand on specific data points could make the visualization more user-friendly.
+
+### Suggested Improvements for "bad" example 
+#### Clarify Time Frame: 
+The visualization should specify the exact time period over which the data for Qatar and other countries were collected. For Qatar, it should clearly indicate the end date for the data on migrant worker deaths, in addition to the start date of December 2010. This clarity would help viewers understand the duration over which these deaths occurred and allow for more accurate comparisons.
+
+#### Detail the Sector and Scope: 
+The visualization should clearly state the sectors or types of work included in the death counts. For other countries, it seems to focus on worker deaths related to the construction and preparation for major sporting events. It should confirm whether this focus is consistent across all countries and provide specifics for Qatar. For Qatar, it should clarify whether the data pertains to the construction of sports facilities, infrastructure projects, or other types of work. Additionally, it should specify if these deaths are associated with a particular event, such as the FIFA World Cup 2022, or cover a broader range of projects and periods.
+
+#### Use a Clear Scale and Labels: 
+The visualization would benefit from adding numerical labels or a clear legend to indicate the exact number of worker deaths. This would prevent any confusion or misinterpretation caused by relying solely on icons to represent the data. A precise visual scale can help viewers grasp the magnitude of the differences between countries more accurately.
+
+#### Provide Comparative Context: 
+To offer a more balanced perspective, the visualization should include additional context, such as the total number of workers involved in each country, the scale and complexity of the projects, and any relevant working conditions or safety regulations. This context is crucial for understanding why there might be significant differences in worker deaths between countries. It could also address factors like labor practices, enforcement of safety standards, and environmental conditions that may impact worker safety.
 
 
 
-
-
-
-      
-      ```
+  ```
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
+  ```
 
 ### Why am I doing this assignment?:
 
