@@ -29,7 +29,7 @@ The visualization provides a detailed breakdown of the electricity grid in Hong 
 4. Contextual Information: The visualization provides additional context about the energy mix debate in Hong Kong, including statistics on average net tariffs and major users, which enhances the viewer's understanding.
 
 #### Cons
-Visual Complexity: The visualization is somewhat dense, with a lot of information presented in one image. This can make it challenging for viewers to grasp all the details quickly, especially if they are unfamiliar with Sankey diagrams.
+Visual Complexity: The visualization is somewhat dense, with a lot of information presented in one image. This can make it challenging for viewers to grasp all the details quickly, especially if they are unfamiliar with Sankey diagrams. As Alberto Cairo discusses in "The Functional Art," visualizations can either aid or hinder the understanding of complex information. He introduces the concept of cognitive load, emphasizing the importance of not overwhelming the viewer with too much information or poorly structured visuals. This complexity can lead to difficulties in accurately interpreting the data presented.
 
 #### Conclusion
 This visualization is considered a "good" example due to its detailed and comprehensive representation of Hong Kong's electricity grid. It effectively uses a Sankey diagram to illustrate the flow and distribution of electricity, with clear labeling and contextual information. While some elements could be simplified and clarified, the visualization provides valuable insights into the electricity consumption patterns and infrastructure of Hong Kong.
@@ -69,7 +69,10 @@ The use of uniform icons to represent deaths is impactful but can be misleading.
       ```
 
 ### Suggested Improvements for "good" example
+#### Visual Complexity:
 The visualization contains a lot of information, which can overwhelm viewers. Simplifying the design by breaking down the data into multiple, smaller charts or focusing on key aspects in separate visualizations could make it easier to digest. For example, separate diagrams could highlight electricity sources, consumption sectors, and major consumers individually.
+#### User Interaction and Accessibility: 
+The visualization is static, lacking interactive elements that could enhance user engagement and accessibility. For instance, adding interactive features like hover-over tooltips with additional information or clickable elements to expand on specific data points could make the visualization more user-friendly.
 
 ### Suggested Improvements for "bad" example 
 #### Clarify Time Frame: 
