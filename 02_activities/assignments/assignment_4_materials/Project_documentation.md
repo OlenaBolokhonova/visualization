@@ -13,10 +13,10 @@ Overall, this project aims to provide valuable data-driven insights that can con
 This project involves creating two distinct data visualizations:
 
 1. **Bar Chart**: This visualization will showcase the top 10 most frequent areas of origin for fire incidents, highlighting the frequency and associated estimated dollar loss. This information is crucial for identifying high-risk areas and understanding the financial impact of fire incidents.
-    - ![Bar Chart](02_activities/assignments/assignment_4_materials/fire_incidents_chart_python.png)
+    - ![Bar Chart](fire_incidents_chart_python.png)
 
 2. **Heatmap**: This visualization will illustrate the relationship between fire incidents and the presence of fire alarm systems. By analyzing civilian casualties in different areas of origin with and without fire alarm systems, we aim to evaluate the effectiveness of fire alarm systems in reducing casualties.
-    - ![Heatmap](02_activities/assignments/assignment_4_materials/Fire_incidents_alarm_tableu.png)
+    - ![Heatmap](Fire_incidents_alarm_tableu.png)
 
 ### Bar Chart: "Top 10 Most Frequent Areas of Origin for Fire Incidents"
 
