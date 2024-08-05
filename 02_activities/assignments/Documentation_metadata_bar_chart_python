@@ -6,7 +6,7 @@ Name: Fire Incidents
 Source: City of Toronto Open Data Portal
 Description: This dataset includes only fire incidents as defined by the Ontario Fire Marshal (OFM) up to December 31, 2023. It provides detailed information about fire incidents to which Toronto Fire Service (TFS) responds. The data includes information on the area of origin, building status, business impact, civilian casualties, and other related variables.
 Variables Used:
-
+vf
 Area_of_Origin: The specific area within a property where the fire originated (e.g., Cooking Area or Kitchen, Porch or Balcony).
 Frequency: The count of fire incidents that originated from each area.
 Estimated_Dollar_Loss: The estimated financial loss caused by the fire incidents, in dollars.
