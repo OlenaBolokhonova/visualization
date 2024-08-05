@@ -19,9 +19,7 @@
     
     > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
     - Substantive: The data presented is relevant and directly related to fire safety. It includes meaningful metrics such as the frequency of incidents, estimated dollar loss, and civilian casualties.
-    
     - Perceptual: The use of a bar chart ensures that the differences in frequencies are easily perceivable. The color gradient based on estimated dollar loss helps in quickly identifying the severity of incidents.
-    
     - Aesthetic: The plot uses a clean, white background with contrasting colors to enhance readability. Titles, labels, and annotations are clearly legible with an appropriate font size and style. The color palette 'Plasma' provides a visually appealing and distinguishable gradient.
     
     > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
