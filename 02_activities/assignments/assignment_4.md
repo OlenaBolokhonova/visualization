@@ -11,7 +11,7 @@
 ## Summary of the Dataset
 Dataset Name: Fire Incidents
 
-Source: Open Toronto - Fire Incidents
+Source: [Open Toronto - Fire Incidents](https://open.toronto.ca/dataset/fire-incidents/)
 
 Description:
 The dataset includes detailed information on fire incidents as defined by the Ontario Fire Marshal (OFM) to which the Toronto Fire Service (TFS) responded. The data spans up to December 31, 2023. This dataset provides more granular details compared to the basic incidents dataset, with a format similar to the reporting data sent by TFS to the OFM. For privacy reasons, personal information is excluded, and exact addresses are aggregated to the nearest major or minor intersection. Some incidents are excluded pursuant to exemptions under Section 8 of the Municipal Freedom of Information and Protection of Privacy Act (MFIPPA).
