@@ -1,10 +1,18 @@
 # Project Documentation
 
-This is a sample project documentation.
+## Section 1: Project Purpose and Scope
 
-## Section 1: Introduction
+The purpose of this project is to analyze and visualize fire incident data from the City of Toronto's Open Data Portal. By examining detailed information about fire incidents, including the area of origin,  civilian casualties, and more, the aim is to provide insights that can help improve fire safety measures and resource allocation.
 
-**This section provides an introduction to the project.** Here we describe the project's purpose and scope.
+This project involves creating two distinct data visualizations:
+
+Bar Chart: This visualization will showcase the top 10 most frequent areas of origin for fire incidents, highlighting the frequency and associated estimated dollar loss. This information is crucial for identifying high-risk areas and understanding the financial impact of fire incidents.
+
+Heatmap: This visualization will illustrate the relationship between fire incidents and the presence of fire alarm systems. By analyzing civilian casualties in different areas of origin with and without fire alarm systems, we aim to evaluate the effectiveness of fire alarm systems in reducing casualties.
+
+The intended audience for these visualizations includes fire safety analysts, policymakers, emergency response teams, and public health officials. These stakeholders can use the insights from the visualizations to make informed decisions about fire safety strategies and resource allocation.
+
+Overall, this project aims to provide valuable data-driven insights that can contribute to enhancing fire safety and reducing the risk and impact of fire incidents in Toronto.
 
 ## Section 2: Data Visualization
 
