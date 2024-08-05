@@ -7,6 +7,49 @@
 - Choose a dataset of interest from the [City of Toronto’s Open Data Portal](https://www.toronto.ca/city-government/data-research-maps/open-data/) or [Ontario’s Open Data Catalogue](https://data.ontario.ca/). 
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify:
+
+## Summary of the Dataset
+Dataset Name: Fire Incidents
+
+Source: Open Toronto - Fire Incidents
+
+Description:
+The dataset includes detailed information on fire incidents as defined by the Ontario Fire Marshal (OFM) to which the Toronto Fire Service (TFS) responded. The data spans up to December 31, 2023. This dataset provides more granular details compared to the basic incidents dataset, with a format similar to the reporting data sent by TFS to the OFM. For privacy reasons, personal information is excluded, and exact addresses are aggregated to the nearest major or minor intersection. Some incidents are excluded pursuant to exemptions under Section 8 of the Municipal Freedom of Information and Protection of Privacy Act (MFIPPA).
+
+### Key Points:
+
+Starting Date: Data collection started in 2011
+
+Refresh Date: Last refreshed on July 30, 2024
+
+Total Rows: 32,930
+
+Total Columns: 43
+
+### Columns Used in Visualizations:
+
+Area_of_Origin: OFM Area of Origin code and description.
+
+Civilian_Casualties: Count of civilian casualties, including fire-related injuries or fatalities.
+
+Estimated_Dollar_Loss: Estimated financial loss due to the fire.
+
+Fire_Alarm_System_Operation: OFM Fire Alarm System Operation code and description.
+
+Fire_Alarm_System_Presence: OFM Fire Alarm System Presence code and description.
+
+### Dataset Utility:
+
+Public Safety: Helps analyze fire incidents to improve public safety measures.
+
+Policy Making: Provides data for policymakers to make informed decisions about fire safety regulations.
+
+Resource Allocation: Assists in allocating resources effectively for fire prevention and emergency response.
+
+Research: Provides a rich dataset for academic and practical research in fire safety and urban planning.
+
+By understanding the dataset and its structure, stakeholders can better utilize the information for improving fire safety protocols and emergency response strategies in Toronto.
+
 ## Bar chat "Top 10 Most Frequent Areas of Origin for Fire Incidents"
     > What software did you use to create your data visualization?
     I used Plotly Express to create the data visualization.
