@@ -48,6 +48,35 @@
     - Testing: Running multiple iterations of the visualization to ensure clarity, accuracy, and aesthetics.
     - Troubleshooting: Resolving issues related to software dependencies, exporting images, and ensuring interactive elements function as expected.
     - Documentation: Writing clear, reproducible code and annotations for others to understand and replicate the visualization process.
+## Heatmap: "Fire Incidents by Area of Origin and Fire Alarm System Presence"
+     > What software did you use to create your data visualization?
+     The heatmap was created using Tableau.
+     
+    > Who is your intended audience? 
+    The intended audience includes fire safety analysts, building inspectors, and emergency response teams who need to analyze the relationship between fire incidents and the presence of fire alarm systems.
+    
+    > What information or message are you trying to convey with your visualization? 
+    The heatmap illustrates the relationship between the area of origin for fire incidents and the presence or absence of fire alarm systems, highlighting areas with high civilian casualties.
+    
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+    - Substantive: Focused on the impact of fire alarm systems on fire incidents.
+    - Perceptual: Used a color gradient to represent the number of civilian casualties, making it easy to identify high-risk areas.
+    - Aesthetic: Ensured readability with clear labels, appropriate font sizes, and a contrasting color palette.
+
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
+    The visualization was created using Tableau, which allows for reproducibility through saved workbooks and shared dashboards.
+    
+    > How did you ensure that your data visualization is accessible?  
+    The heatmap uses high-contrast colors and readable fonts. The color palette was chosen to be colorblind-friendly, and the layout was designed to be easy to navigate.
+    
+    > Who are the individuals and communities who might be impacted by your visualization?  
+    Fire safety officials, building inspectors, and local government authorities may use this visualization to identify areas that require improved fire alarm systems.
+    
+    > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
+    Focused on the areas of origin, the presence of fire alarm systems, and civilian casualties to provide a comprehensive view of the impact of fire alarm systems on fire incidents.
+    
+    > What ‘underwater labour’ contributed to your final data visualization product?
+    Data cleaning and preprocessing steps were performed to ensure the dataset was accurate and suitable for visualization. Several iterations of adjusting the color palette and layout in Tableau were necessary to achieve the final result.
     
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
