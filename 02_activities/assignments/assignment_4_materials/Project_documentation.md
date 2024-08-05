@@ -13,10 +13,8 @@ Overall, this project aims to provide valuable data-driven insights that can con
 This project involves creating two distinct data visualizations:
 
 1. **Bar Chart**: This visualization will showcase the top 10 most frequent areas of origin for fire incidents, highlighting the frequency and associated estimated dollar loss. This information is crucial for identifying high-risk areas and understanding the financial impact of fire incidents.
-    - ![Bar Chart](fire_incidents_chart_python.png)
 
 2. **Heatmap**: This visualization will illustrate the relationship between fire incidents and the presence of fire alarm systems. By analyzing civilian casualties in different areas of origin with and without fire alarm systems, we aim to evaluate the effectiveness of fire alarm systems in reducing casualties.
-    - ![Heatmap](Fire_incidents_alarm_tableu.png)
 
 ### Bar Chart: "Top 10 Most Frequent Areas of Origin for Fire Incidents"
 
@@ -41,6 +39,8 @@ This project involves creating two distinct data visualizations:
 
 **Visualization:**
 
+ - ![Bar Chart](fire_incidents_chart_python.png)
+ - 
 - **Software Used**: Plotly Express (Python)
 - **Purpose**: To highlight the most common areas of origin for fire incidents in Toronto and the associated estimated dollar loss.
 - **Design Choices**:
@@ -76,6 +76,8 @@ The bar chart reveals that the most frequent area of origin for fire incidents i
 
 **Visualization:**
 
+ - ![Heatmap](Fire_incidents_alarm_tableu.png)
+    
 - **Software Used**: Tableau
 - **Purpose**: To show the relationship between the presence of fire alarm systems and the number of civilian casualties in different areas of origin.
 - **Design Choices**:
